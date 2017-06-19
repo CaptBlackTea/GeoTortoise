@@ -1,0 +1,13 @@
+body {
+	background-color: #dbb582;
+}
+
+#mapid { height: 300px; }
+
+.myBoarder {
+	max-width: 500px;
+}
+
+#video {
+	max-width: 500px;
+}
